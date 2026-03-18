@@ -57,4 +57,14 @@ The model shows that Newspaper advertising has near-zero impact on sales, while 
 Shifting these funds can increase total sales **without increasing the overall marketing budget**.
 
 ---
+## ⚙️ How to Run
+
+ 1. Clone the repository
+```bash
+git clone [https://github.com/CodeAlpha_sale-prediction/Advertising-Sales-Prediction.git](https://github.com/CodeAlpha_sale-prediction/Advertising-Sales-Prediction.git)
+2.Install dependencies:
+```bash
+  pip install pandas scikit-learn seaborn matplotlib numpy
+3.Open the notebook:
+```bash
 
