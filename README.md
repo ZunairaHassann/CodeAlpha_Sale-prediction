@@ -57,14 +57,4 @@ The model shows that Newspaper advertising has near-zero impact on sales, while 
 Shifting these funds can increase total sales **without increasing the overall marketing budget**.
 
 ---
-🚀 How to Use
-1. Clone the repository
 
-Bash
-git clone https://github.com/YourUsername/Advertising-Sales-Prediction.git
-2. Install dependencies
-
-Bash
-pip install pandas scikit-learn seaborn matplotlib numpy
-3. Run the notebook
-Open the .ipynb file in Jupyter Notebook, VS Code, or Kaggle to view the complete analysis and model results.
