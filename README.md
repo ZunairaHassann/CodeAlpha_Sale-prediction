@@ -99,7 +99,7 @@ git clone https://github.com/ZunairaHassann/CodeAlpha_Sale-prediction.git
 
 ### 2. Go to the Project Folder
 
-🔗 [View Project Structure](https://github.com/ZunairaHassan/CodeAlpha_Sale-prediction)
+🔗 [View Project Structure](https://github.com/ZunairaHassann/CodeAlpha_Sale-prediction)
 
 ```bash
 cd CodeAlpha_Sale-prediction
@@ -109,7 +109,7 @@ cd CodeAlpha_Sale-prediction
 
 ### 3. Install Required Libraries
 
-🔗 [View Requirements](https://github.com/ZunairaHassan/CodeAlpha_Sale-prediction)
+🔗 [View Requirements](https://github.com/ZunairaHassann/CodeAlpha_Sale-prediction)
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
