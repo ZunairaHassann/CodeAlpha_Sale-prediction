@@ -7,11 +7,40 @@ By utilizing **Multiple Linear Regression**, this project predicts future sales 
 
 ---
 
-## 📖 Dataset Features
-- **TV**: Budget spent on TV ads (in thousands of dollars)
-- **Radio**: Budget spent on Radio ads (in thousands of dollars)
-- **Newspaper**: Budget spent on Newspaper ads (in thousands of dollars)
-- **Sales (Target)**: Number of units sold (in thousands)
+## 🎯 Objective
+
+The goal of this project is to analyze the impact of advertising
+channels on sales and build a predictive model.
+
+---
+
+
+## 📊 Dataset Overview
+
+This dataset is used to analyze the relationship between advertising expenditure and product sales.
+
+### 📌 Features Description
+
+| Feature     | Description                              | Unit        |
+|------------|------------------------------------------|------------|
+| TV         | Budget spent on TV advertising            | Thousands ($) |
+| Radio      | Budget spent on Radio advertising         | Thousands ($) |
+| Newspaper  | Budget spent on Newspaper advertising     | Thousands ($) |
+| Sales      | Sales generated                           | Units Sold |
+
+### 📈 Key Insights from Dataset
+
+- TV advertising has a strong correlation with sales  
+- Radio advertising shows moderate impact  
+- Newspaper advertising has relatively low influence  
+
+---
+
+## 📈 Model Performance
+
+- R² Score: XX%
+- Mean Absolute Error: XX
+- Mean Squared Error: XX
 
 ---
 
@@ -43,28 +72,50 @@ By utilizing **Multiple Linear Regression**, this project predicts future sales 
 
 ---
 
+## 💡 Final Strategic Recommendation
+Reallocate the **Newspaper** budget to **Radio**.  
+The model shows that Newspaper advertising has near-zero impact on sales, while Radio offers the highest return per dollar spent.  
+Shifting these funds can increase total sales **without increasing the overall marketing budget**.
+
+---
+
 ## 🛠️ Technologies Used
 - **Python** (Pandas, NumPy)  
 - **Scikit-Learn** (Modeling & Metrics)  
 - **Matplotlib & Seaborn** (Visualization)  
 
 ---
-
-## 💡 Final Strategic Recommendation
-Reallocate the **Newspaper** budget to **Radio**.  
-The model shows that Newspaper advertising has near-zero impact on sales, while Radio offers the highest return per dollar spent.  
-
-Shifting these funds can increase total sales **without increasing the overall marketing budget**.
-
----
 ## ⚙️ How to Run
 
- 1. Clone the repository
+### 1. Clone the Repository
+
+🔗 [Open Repository](https://github.com/ZunairaHassan/CodeAlpha_Sale-prediction)
+
 ```bash
-git clone [https://github.com/CodeAlpha_sale-prediction/Advertising-Sales-Prediction.git](https://github.com/CodeAlpha_sale-prediction/Advertising-Sales-Prediction.git)
-2.Install dependencies:
+git clone https://github.com/ZunairaHassan/CodeAlpha_Sale-prediction.git
+```
+
+---
+
+### 2. Go to the Project Folder
+
+🔗 [View Project Structure](https://github.com/ZunairaHassan/CodeAlpha_Sale-prediction)
+
 ```bash
-  pip install pandas scikit-learn seaborn matplotlib numpy
-3.Open the notebook:
+cd CodeAlpha_Sale-prediction
+```
+
+---
+
+### 3. Install Required Libraries
+
+🔗 [View Requirements](https://github.com/ZunairaHassan/CodeAlpha_Sale-prediction)
+
 ```bash
+pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+```
+
+---
+
+
 
