@@ -89,10 +89,10 @@ Shifting these funds can increase total sales **without increasing the overall m
 
 ### 1. Clone the Repository
 
-🔗 [Open Repository](https://github.com/ZunairaHassan/CodeAlpha_Sale-prediction)
+🔗 [Open Repository](https://github.com/ZunairaHassann/CodeAlpha_Sale-prediction)
 
 ```bash
-git clone https://github.com/ZunairaHassan/CodeAlpha_Sale-prediction.git
+git clone https://github.com/ZunairaHassann/CodeAlpha_Sale-prediction.git
 ```
 
 ---
